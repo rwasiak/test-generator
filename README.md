@@ -1,5 +1,5 @@
 <h1 align="center">
-  Test generator 📝
+  Tests generator 📝
 </h1>
 
 <div align="center">
